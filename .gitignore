@@ -1,0 +1,5 @@
+data/
+data/cifar-10-python.tar.gz
+models/
+models/model6.pth
+cifar-10-python.tar.gzc
